@@ -1,0 +1,9 @@
+Dario,15,18,16.5
+Sebastian,8,12,10.0
+Estefani,10,11,10.5
+Dario,15,18,16.5
+Sebastian,8,12,10.0
+Estefani,10,11,10.5
+Dario,15,18,16.5
+Sebastian,8,12,10.0
+Estefani,10,11,10.5
